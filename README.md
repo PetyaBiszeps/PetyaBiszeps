@@ -6,7 +6,11 @@
 
 ### I'm from Kyiv, Ukraine ![Ukraine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png "Ukraine")<br><br>
 
-### Contact me with: 
+### Contact me: <br>
+
+<p align="left">
+  <code>[![Gmail](https://img.shields.io/badge/jobaccyp00@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobaccyp00@gmail.com)</code>
+</p>
 
 
 
