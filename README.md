@@ -2,7 +2,7 @@
 
 ## **`Front-end developer`**
 
-👋 Hi there! I'm a passionate Front-end Developer with 1 year of experience in Web development. During this time, I’ve worked on a variety of projects, ranging from creating responsive and visually appealing landing pages to implementing new functionality and resolving critical bugs.
+# 👋 Hi there! I'm a passionate Front-end Developer who just likes web development. I'm from Kyiv, Ukraine. To contact me, please, consider:
 
 
 
