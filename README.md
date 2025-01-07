@@ -2,7 +2,7 @@
 
 ## **`Front-end developer`**
 
-### 👋 Hi there! Web development is my passion. I'm from Kyiv, Ukraine ![Ukraine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png "Ukraine")<br><br>
+### 👋 Hi there! I'm from Kyiv, Ukraine ![Ukraine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png "Ukraine"). Web development is my passion. <br><br>
 
 
 
