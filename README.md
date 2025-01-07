@@ -52,4 +52,4 @@
 
 ### 📊 Stats <br>
 
-### ![Yaroslav Petrov GitHub stats](https://github-readme-stats.vercel.app/api?username=petyabiszeps&show_icons=true&theme=gruvbox)
+![Yaroslav Petrov GitHub stats](https://github-readme-stats.vercel.app/api?username=petyabiszeps&show_icons=true&theme=gruvbox)
