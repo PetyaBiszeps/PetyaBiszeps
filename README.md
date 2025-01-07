@@ -9,9 +9,9 @@
 ### Contact me: <br>
 
 <p align="left">
-  
+  <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)" />
 </p> <br><br>
-
+          
 ### 💻 My tech stack <br>
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
