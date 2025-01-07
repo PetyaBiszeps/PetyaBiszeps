@@ -2,7 +2,7 @@
 
 ## **`Front-end developer`**
 
-# 👋 Hi there! I'm a passionate Front-end Developer who just likes web development. I'm from Kyiv, Ukraine. To contact me, please, consider:
+### 👋 Hi there! I'm a passionate Front-end Developer who just likes web development. I'm from Kyiv, Ukraine. To contact me, please, consider:
 
 
 
