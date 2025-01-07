@@ -2,17 +2,9 @@
 
 ## **`Front-end developer`**
 
-### 👋 Hi there! I'm a passionate Front-end Developer who just likes web development <br><br>
+### 👋 Hi there! I'm a passionate Front-end Developer who just likes web development. I'm from Kyiv, Ukraine ![Ukraine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png "Ukraine")<br><br>
 
-### I'm from Kyiv, Ukraine ![Ukraine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png "Ukraine")<br><br>
 
-### Contact me: <br>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yp00/">
-    <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
-</p> <br><br>
 
 ### 💻 My tech stack <br>
 
@@ -37,6 +29,8 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> <br><br>
 
+
+
 ### 🫡 My tools <br>
 
 <img align="left" alt="Webstorm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
@@ -48,7 +42,19 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="NixOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
-<img align="left" alt="Windows11" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> <br><br><br><br><br>
+<img align="left" alt="Windows11" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /> <br><br>
+
+
+
+### Contact me: <br>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yp00/">
+    <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  </a>
+</p> <br><br><br><br><br>
+
+
 
 ### 📊 Stats <br>
 
