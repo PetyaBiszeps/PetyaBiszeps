@@ -4,8 +4,7 @@
 
 ### 👋 Hi there! I'm a passionate Front-end Developer who just likes web development <br><br>
 
-### 🇺🇦 I'm from Kyiv, Ukraine
-
+### ![Ukraine](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png "Ukraine") I'm from Kyiv, Ukraine
 
 
 
