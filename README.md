@@ -9,9 +9,14 @@
 ### Contact me: <br>
 
 <p align="left">
-  <code>[![Gmail](https://img.shields.io/badge/jobaccyp00@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobaccyp00@gmail.com)</code>
-</p>
+  
+</p> <br><br>
 
+### 💻 Languages and Tools
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 
 
 
