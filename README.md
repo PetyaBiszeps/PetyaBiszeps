@@ -52,10 +52,4 @@
   <a href="https://www.linkedin.com/in/yp00/">
     <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-</p> <br><br><br>
-
-
-
-### 📊 Stats <br>
-
-![Yaroslav Petrov GitHub stats](https://github-readme-stats.vercel.app/api?username=petyabiszeps&show_icons=true&theme=gruvbox)
+</p>
