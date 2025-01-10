@@ -54,6 +54,7 @@
   <a href="https://www.linkedin.com/in/yp00/">
     <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
+<br>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyaBiszeps&theme=dark&hide=html)
