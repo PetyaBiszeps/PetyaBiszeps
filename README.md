@@ -57,4 +57,4 @@
 <br>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyaBiszeps&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyaBiszeps&theme=dark)](https://github.com/PetyaBiszeps/github-readme-stats)
