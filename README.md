@@ -20,7 +20,7 @@
                 <table>
                     <tr align="center">
                         <td>
-                            <img src="./images/01-html.svg" alt="HTML" width="50" height="50" style="margin: 0"/>
+                            <img src="./images/01-html.svg" alt="HTML" width="50" height="50"/>
                             <br>
                             <h4 style="margin: 0; padding: 0; line-height: 0;">HTML</h4>
                         </td>
@@ -195,13 +195,15 @@
 
 </table>
 
+<div style="display: flex; justify-content: space-between;">
+<div>
+
 ### Contact me:
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="https://www.linkedin.com/in/yp00/">
-        <img align="left" alt="LinkedIn" width="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-    </a>
+<a href="https://www.linkedin.com/in/yp00/">
+    <img align="left" alt="LinkedIn" width="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
 </div>
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyaBiszeps&theme=dark&hide=html)
+</div>
