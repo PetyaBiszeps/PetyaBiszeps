@@ -195,7 +195,7 @@
 
 </table>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 <div>
 
 ### Contact me:
