@@ -201,7 +201,7 @@
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/yp00/">
-    <img align="left" alt="LinkedIn" width="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img alt="LinkedIn" width="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
 </div>
 
