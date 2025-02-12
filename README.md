@@ -20,7 +20,7 @@
                 <table>
                     <tr align="center">
                         <td>
-                            <img src="./images/01-html.svg" alt="HTML" width="50" height="50"/>
+                            <img src="./images/01-html.svg" alt="HTML" width="50" height="50" style="margin: 0"/>
                             <br>
                             <h4 style="margin: 0; padding: 0; line-height: 0;">HTML</h4>
                         </td>
