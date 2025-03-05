@@ -195,8 +195,6 @@
 
 </table>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/yp00/">
@@ -204,4 +202,3 @@
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyaBiszeps&theme=dark&hide=html)
-</div>
