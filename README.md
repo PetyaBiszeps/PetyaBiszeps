@@ -26,15 +26,18 @@
                         </td>
                         <td>
                             <img src="./images/02-css3.svg" alt="CSS" width="50" height="50"/>
-                            <h4 style="margin: 0; padding: 0; line-height: 0;">CSS</h4>
+                            <br>
+                            <span style="margin: 0; padding: 0; line-height: 0;">CSS</span>
                         </td>
                         <td>
                             <img src="./images/03-javascript.svg" alt="JS" width="50" height="50"/>
-                            <h4 style="margin: 0; padding: 0; line-height: 0;">JavaScript</h4>
+                            <br>
+                            <span style="margin: 0; padding: 0; line-height: 0;">JavaScript</span>
                         </td>
                         <td>
                             <img src="./images/04-typescript.svg" alt="TS" width="50" height="50"/>
-                            <h4 style="margin: 0; padding: 0; line-height: 0;">TypeScript</h4>
+                            <br>
+                            <span style="margin: 0; padding: 0; line-height: 0;">TypeScript</span>
                         </td>
                     </tr>
                     <tr align="center">
