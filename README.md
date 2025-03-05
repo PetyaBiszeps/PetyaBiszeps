@@ -21,7 +21,8 @@
                     <tr align="center">
                         <td>
                             <img src="./images/01-html.svg" alt="HTML" width="50" height="50"/>
-                            <h4 style="margin: 0; padding: 0; line-height: 0;">HTML</h4>
+                            <br>
+                            <span style="margin: 0; padding: 0; line-height: 0;">HTML</span>
                         </td>
                         <td>
                             <img src="./images/02-css3.svg" alt="CSS" width="50" height="50"/>
