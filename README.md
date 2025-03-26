@@ -110,7 +110,7 @@
             </div>
         </td>
         <td valign="top" width="50%">
-            <div style="display: flex; flex-direction: column;">
+            <div style="display: flex; flex-direction: column">
                 <div>
                     <h1 style="margin: 0 0 5px 0; padding: 0; line-height: 1;">Back-End</h1>
                     <div>
@@ -126,36 +126,6 @@
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Express JS</span>
                                 </td>
-                                <td>
-                                    <img src="images/20-nest.svg" alt="Nest JS" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Nest JS</span>
-                                </td>
-                                <td>
-                                    <img src="images/21-jest.svg" alt="Jest JS" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Jest JS</span>
-                                </td>
-                            </tr>
-                            <tr align="center">
-                                <td>
-                                    <img src="images/22-postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">PostgreSQL</span>
-                                </td>
-                                <td>
-                                    <img src="images/23-mongodb.svg" alt="MongoDB" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">MongoDB</span>
-                                </td>
-                                <td>
-                                    <br>
-                                    <h4 style="margin: 0; padding: 0; line-height: 0;"></h4>
-                                </td>
-                                <td>
-                                    <br>
-                                    <h4 style="margin: 0; padding: 0; line-height: 0;"></h4>
-                                </td>
                             </tr>
                         </table>
                     </div>
@@ -164,7 +134,7 @@
                     <h1 style="margin: 0 0 5px 0; padding: 0; line-height: 1;">Tools</h1>
                     <div>
                         <table>
-                            <tr align="center">
+                            <tr>
                                 <td>
                                     <img src="images/24-git.svg" alt="Git" width="50" height="50"/>
                                     <br>
@@ -174,16 +144,6 @@
                                     <img src="images/25-terminal.svg" alt="Terminal" width="50" height="50"/>
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Terminal</span>
-                                </td>
-                                <td>
-                                    <img src="images/27-npm.svg" alt="npm" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">npm</span>
-                                </td>
-                                <td>
-                                    <img src="images/28-pnpm.svg" alt="pnpm" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">pnpm</span>
                                 </td>
                             </tr>
                         </table>
