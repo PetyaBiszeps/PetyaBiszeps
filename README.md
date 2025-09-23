@@ -132,9 +132,9 @@
                                     <span style="margin: 0; padding: 0; line-height: 0;">Nest JS</span>
                                 </td>
                                 <td>
-                                    <img src="images/21-jest.svg" alt="Jest" width="50" height="50"/>
+                                    <img src="images/21-fastify.svg" alt="Fastify" width="50" height="50"/>
                                     <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Jest</span>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">Fastify</span>
                                 </td>
                             </tr>
                             <tr align="center">
@@ -149,12 +149,14 @@
                                     <span style="margin: 0; padding: 0; line-height: 0;">MongoDB</span>
                                 </td>
                                 <td>
+                                    <img src="images/27-jest.svg" alt="Jest" width="50" height="50"/>
                                     <br>
-                                    <h4 style="margin: 0; padding: 0; line-height: 0;"></h4>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">Jest</span>
                                 </td>
                                 <td>
+                                    <img src="images/28-vitest.svg" alt="Vitest" width="50" height="50"/>
                                     <br>
-                                    <h4 style="margin: 0; padding: 0; line-height: 0;"></h4>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">Vitest</span>
                                 </td>
                             </tr>
                         </table>
