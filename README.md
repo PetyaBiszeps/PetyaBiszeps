@@ -126,6 +126,36 @@
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Express JS</span>
                                 </td>
+                                <td>
+                                    <img src="images/20-nest.svg" alt="Nest JS" width="50" height="50"/>
+                                    <br>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">Nest JS</span>
+                                </td>
+                                <td>
+                                    <img src="images/21-jest.svg" alt="Jest" width="50" height="50"/>
+                                    <br>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">Jest</span>
+                                </td>
+                            </tr>
+                            <tr align="center">
+                                <td>
+                                    <img src="images/22-postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
+                                    <br>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">PostgreSQL</span>
+                                </td>
+                                <td>
+                                    <img src="images/23-mongodb.svg" alt="MongoDB" width="50" height="50"/>
+                                    <br>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">MongoDB</span>
+                                </td>
+                                <td>
+                                    <br>
+                                    <h4 style="margin: 0; padding: 0; line-height: 0;"></h4>
+                                </td>
+                                <td>
+                                    <br>
+                                    <h4 style="margin: 0; padding: 0; line-height: 0;"></h4>
+                                </td>
                             </tr>
                         </table>
                     </div>
@@ -144,6 +174,11 @@
                                     <img src="images/25-terminal.svg" alt="Terminal" width="50" height="50"/>
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Terminal</span>
+                                </td>
+                                <td>
+                                    <img src="images/26-docker.svg" alt="Docker" width="50" height="50"/>
+                                    <br>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">Docker</span>
                                 </td>
                             </tr>
                         </table>
