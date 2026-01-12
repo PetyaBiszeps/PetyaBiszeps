@@ -197,5 +197,3 @@
 <a href="https://www.linkedin.com/in/yp00/">
     <img alt="LinkedIn" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetyaBiszeps&theme=dark&hide=html)
