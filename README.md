@@ -117,6 +117,11 @@
                         <table>
                             <tr align="center">
                                 <td>
+                                    <img src="images/29-go.svg" alt="Go" width="50" height="50"/>
+                                    <br>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">Go</span>
+                                </td>
+                                <td>
                                     <img src="images/18-nodejs.svg" alt="Node JS" width="50" height="50"/>
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Node JS</span>
@@ -131,13 +136,13 @@
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Nest JS</span>
                                 </td>
+                            </tr>
+                            <tr align="center">
                                 <td>
                                     <img src="images/21-fastify.svg" alt="Fastify" width="50" height="50"/>
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Fastify</span>
                                 </td>
-                            </tr>
-                            <tr align="center">
                                 <td>
                                     <img src="images/22-postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
                                     <br>
@@ -153,11 +158,6 @@
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Jest</span>
                                 </td>
-                                <td>
-                                    <img src="images/28-vitest.svg" alt="Vitest" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Vitest</span>
-                                </td>
                             </tr>
                         </table>
                     </div>
@@ -166,7 +166,7 @@
                     <h1 style="margin: 0 0 5px 0; padding: 0; line-height: 1;">Tools</h1>
                     <div>
                         <table>
-                            <tr>
+                            <tr align="center">
                                 <td>
                                     <img src="images/24-git.svg" alt="Git" width="50" height="50"/>
                                     <br>
@@ -181,6 +181,11 @@
                                     <img src="images/26-docker.svg" alt="Docker" width="50" height="50"/>
                                     <br>
                                     <span style="margin: 0; padding: 0; line-height: 0;">Docker</span>
+                                </td>
+                                <td>
+                                    <img src="images/28-vitest.svg" alt="Vitest" width="50" height="50"/>
+                                    <br>
+                                    <span style="margin: 0; padding: 0; line-height: 0;">Vitest</span>
                                 </td>
                             </tr>
                         </table>
