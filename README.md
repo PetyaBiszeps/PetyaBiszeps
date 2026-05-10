@@ -17,7 +17,7 @@ I care about ownership, speed, clarity and **results**.
 - **CRM system:**  
   Worked as the **sole frontend developer** on a business CRM system with over 500 daily users.  
   Took responsibility for the client-side architecture, feature design, and implementation.  
-  Built and maintained approximately **40,000+ lines of frontend code** in around **6 months** before AI era.- **SaaS products**
+  Built and maintained approximately **40,000+ lines of frontend code** in around **6 months** before AI era.
 - **SaaS services:**
   1. A cloud-style video service where users can record, store and manage videos through a subscription-based platform.
   2. A collaboration platform for filmmakers and colorists, focused on remote video review, client collaboration, realtime feedback and color-focused workflows.
@@ -81,3 +81,5 @@ I also care a lot about clean visual style, smooth interfaces and minimalist pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yp00/)
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/YP0412)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/YP0412)
+
+> If you want to build something sharp, useful and unique — feel free to contact me.
