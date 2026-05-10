@@ -56,38 +56,6 @@ I care about ownership, speed, clarity and **results**.
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 ![NixOS](https://img.shields.io/badge/NixOS-111111?style=for-the-badge&logo=nixos)
 
-## Featured projects
-
-### [Echo](https://github.com/PetyaBiszeps/Echo)
-
-Messenger-style application built with Vue, TypeScript and Node.js.  
-Focused on real-time communication, frontend architecture and backend integration.
-
-### [CRM System](https://github.com/PetyaBiszeps/CRM-system)
-
-CRM application built with Nuxt and TypeScript.  
-Focused on dashboards, business workflows, reusable frontend structure and admin interfaces.
-
-### [Sneakers Shop](https://github.com/PetyaBiszeps/sneakers-shop)
-
-E-commerce pet project for a product store.  
-Focused on product listing, cart logic and user-facing shopping experience.
-
-### [Film Library](https://github.com/PetyaBiszeps/film-library)
-
-Movie library application.  
-Built to practice working with data, UI structure and frontend state management.
-
-### [Delivery Landing](https://github.com/PetyaBiszeps/delivery-landing)
-
-Clean landing page project.  
-Focused on layout, responsive design and visual presentation.
-
-### [NixOS Config](https://github.com/PetyaBiszeps/NixOS)
-
-Personal NixOS configuration.  
-My Linux system configuration, modular setup and development environment.
-
 ## Mindset
 
 I like ambitious ideas, clear execution and direct communication.
