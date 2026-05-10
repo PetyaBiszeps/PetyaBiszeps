@@ -1,204 +1,115 @@
-<div id="header" align="center">
-<img src="./assets/github.gif" width="100"/>
+## About me
 
-# **`Front-end developer`**
+I'm a full-stack developer with a strong product mindset and a bias toward action.
 
-<h2>
-    Hi there! My name is Yaroslav. I'm from Kyiv, Ukraine
-    <img src="./assets/giphy.gif" width="30px" alt="GIF">
-</h2>
+I don't like sitting still or writing code just for the sake of code. I like building things that work, solve real problems and actually get used: CRM systems, SaaS platforms, e-commerce tools, landing pages, internal dashboards and automation scripts.
 
-</div>
+My strongest area is frontend architecture and product interfaces, especially with **JavaScript**, **TypeScript**, **Vue** and **Nuxt**. But I don't limit myself to frontend only, I also build:
+- Backend services with **Node.js** and **Go**
+- Working with databases, **PostgreSQL** my beloved
+- Writing **Python** scripts for automation
+- And my strongest, practical skill: I take a feature from idea to production
 
-### 💻 My tech stack and tools
+I care about ownership, speed, clarity and **results**.
 
-<table>
-    <tr align="center">
-        <td valign="top" width="50%">
-            <h1 style="margin: 0 0 5px 0; padding: 0; line-height: 1;">Front-End</h1>
-            <div>
-                <table>
-                    <tr align="center">
-                        <td>
-                            <img src="./images/01-html.svg" alt="HTML" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">HTML</span>
-                        </td>
-                        <td>
-                            <img src="./images/02-css3.svg" alt="CSS" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">CSS</span>
-                        </td>
-                        <td>
-                            <img src="./images/03-javascript.svg" alt="JS" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">JavaScript</span>
-                        </td>
-                        <td>
-                            <img src="./images/04-typescript.svg" alt="TS" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">TypeScript</span>
-                        </td>
-                    </tr>
-                    <tr align="center">
-                        <td>
-                            <img src="./images/05-vue.svg" alt="Vue.js" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Vue.js</span>
-                        </td>
-                        <td>
-                            <img src="./images/06-nuxt.svg" alt="Nuxt" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Nuxt</span>
-                        </td>
-                        <td>
-                            <img src="./images/07-pinia.svg" alt="Pinia" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Pinia</span>
-                        </td>
-                        <td>
-                            <img src="./images/08-i18n.svg" alt="I18n" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">I18n</span>
-                        </td>
-                    </tr>
-                    <tr align="center">
-                        <td>
-                            <img src="./images/09-tanStack-vue-query.svg" alt="TanStack query" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Query</span>
-                        </td>
-                        <td>
-                            <img src="./images/10-tailwind.svg" alt="Tailwind CSS" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Tailwind</span>
-                        </td>
-                        <td>
-                            <img src="./images/11-bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Bootstrap</span>
-                        </td>
-                        <td>
-                            <img src="./images/12-sass.svg" alt="SASS" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">SASS</span>
-                        </td>
-                    </tr>
-                    <tr align="center">
-                        <td>
-                            <img src="./images/13-bem.svg" alt="BEM" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">BEM</span>
-                        </td>
-                        <td>
-                            <img src="./images/14-vite.svg" alt="Vite" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Vite</span>
-                        </td>
-                        <td>
-                            <img src="images/15-webpack.svg" alt="Webpack" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Webpack</span>
-                        </td>
-                        <td>
-                            <img src="images/16-figma.svg" alt="Figma" width="50" height="50"/>
-                            <br>
-                            <span style="margin: 0; padding: 0; line-height: 0;">Figma</span>
-                        </td>
-                    </tr>
-                </table>
-            </div>
-        </td>
-        <td valign="top" width="50%">
-            <div style="display: flex; flex-direction: column">
-                <div>
-                    <h1 style="margin: 0 0 5px 0; padding: 0; line-height: 1;">Back-End</h1>
-                    <div>
-                        <table>
-                            <tr align="center">
-                                <td>
-                                    <img src="images/29-go.svg" alt="Go" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Go</span>
-                                </td>
-                                <td>
-                                    <img src="images/18-nodejs.svg" alt="Node JS" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Node JS</span>
-                                </td>
-                                <td>
-                                    <img src="images/19-express.svg" alt="Express JS" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Express JS</span>
-                                </td>
-                                <td>
-                                    <img src="images/20-nest.svg" alt="Nest JS" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Nest JS</span>
-                                </td>
-                            </tr>
-                            <tr align="center">
-                                <td>
-                                    <img src="images/21-fastify.svg" alt="Fastify" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Fastify</span>
-                                </td>
-                                <td>
-                                    <img src="images/22-postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">PostgreSQL</span>
-                                </td>
-                                <td>
-                                    <img src="images/23-mongodb.svg" alt="MongoDB" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">MongoDB</span>
-                                </td>
-                                <td>
-                                    <img src="images/27-jest.svg" alt="Jest" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Jest</span>
-                                </td>
-                            </tr>
-                        </table>
-                    </div>
-                </div>
-                <div style="margin: auto">
-                    <h1 style="margin: 0 0 5px 0; padding: 0; line-height: 1;">Tools</h1>
-                    <div>
-                        <table>
-                            <tr align="center">
-                                <td>
-                                    <img src="images/24-git.svg" alt="Git" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Git</span>
-                                </td>
-                                <td>
-                                    <img src="images/25-terminal.svg" alt="Terminal" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Terminal</span>
-                                </td>
-                                <td>
-                                    <img src="images/26-docker.svg" alt="Docker" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Docker</span>
-                                </td>
-                                <td>
-                                    <img src="images/28-vitest.svg" alt="Vitest" width="50" height="50"/>
-                                    <br>
-                                    <span style="margin: 0; padding: 0; line-height: 0;">Vitest</span>
-                                </td>
-                            </tr>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </td>
-    </tr>
+## Professional impact
 
-</table>
+- **CRM system:**  
+  Worked as the **sole frontend developer** on a business CRM system with over 500 daily users.  
+  Took responsibility for the client-side architecture, feature design, and implementation.  
+  Built and maintained approximately **40,000+ lines of frontend code** in around **6 months** before AI era.- **SaaS products**
+- **SaaS services:**
+  1. A cloud-style video service where users can record, store and manage videos through a subscription-based platform.
+  2. A collaboration platform for filmmakers and colorists, focused on remote video review, client collaboration, realtime feedback and color-focused workflows.
+- **Legacy e-commerce migration**  
+  Completed a complex migration from a legacy **nopCommerce** platform to **Shopify**.  
+  The old system had no source code and relied on a database that had been used for 10–15 years.  
+  I transformed the existing data into a Shopify-compatible structure, migrated users and products, configured the new store, connected the domain and helped the staff adapt to the new platform.  
+  In practice, it was a full **0-to-100 migration** from an abandoned legacy system to a production-ready Shopify store.
 
-### Contact me:
+## Tech stack
 
-<a href="https://www.linkedin.com/in/yp00/">
-    <img alt="LinkedIn" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-</a>
+### Main
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
+![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-111111?style=for-the-badge&logo=nuxt)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs)
+![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+
+### Frontend
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss)
+![Pinia](https://img.shields.io/badge/Pinia-111111?style=for-the-badge&logo=vuedotjs)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-111111?style=for-the-badge&logo=reactquery)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
+![Sass](https://img.shields.io/badge/Sass-111111?style=for-the-badge&logo=sass)
+
+### Backend, database and tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![NixOS](https://img.shields.io/badge/NixOS-111111?style=for-the-badge&logo=nixos)
+
+## Featured projects
+
+### [Echo](https://github.com/PetyaBiszeps/Echo)
+
+Messenger-style application built with Vue, TypeScript and Node.js.  
+Focused on real-time communication, frontend architecture and backend integration.
+
+### [CRM System](https://github.com/PetyaBiszeps/CRM-system)
+
+CRM application built with Nuxt and TypeScript.  
+Focused on dashboards, business workflows, reusable frontend structure and admin interfaces.
+
+### [Sneakers Shop](https://github.com/PetyaBiszeps/sneakers-shop)
+
+E-commerce pet project for a product store.  
+Focused on product listing, cart logic and user-facing shopping experience.
+
+### [Film Library](https://github.com/PetyaBiszeps/film-library)
+
+Movie library application.  
+Built to practice working with data, UI structure and frontend state management.
+
+### [Delivery Landing](https://github.com/PetyaBiszeps/delivery-landing)
+
+Clean landing page project.  
+Focused on layout, responsive design and visual presentation.
+
+### [NixOS Config](https://github.com/PetyaBiszeps/NixOS)
+
+Personal NixOS configuration.  
+My Linux system configuration, modular setup and development environment.
+
+## Mindset
+
+I like ambitious ideas, clear execution and direct communication.
+
+I prefer taking ownership over waiting for perfect instructions.  
+I enjoy moving fast, figuring things out, simplifying chaos and turning vague requirements into working features.
+
+For me, good development is not only about writing code.  
+It's about understanding the product, making decisions, caring about details and shipping something solid.
+
+## Beyond code
+
+Outside of development, I love video games and see them as one of the strongest forms of modern art.  
+I value games for their design, atmosphere, storytelling, technical craft and the way they create interactive experiences.
+
+I also care a lot about clean visual style, smooth interfaces and minimalist product design.
+
+## GitHub activity
+[![GitHub Stats](https://ghstats.dev/api/card?username=petyabiszeps&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)](https://github.com/PetyaBiszeps)
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yp00/)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/YP0412)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/YP0412)
