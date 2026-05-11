@@ -8,6 +8,7 @@ My strongest area is frontend architecture and product interfaces, especially wi
 - Backend services with **Node.js** and **Go**
 - Working with databases, **PostgreSQL** my beloved
 - Writing **Python** scripts for automation
+- Setting up CI/CD pipelines for builds, checks and deployments
 - And my strongest, practical skill: I take a feature from idea to production
 
 I care about ownership, speed, clarity and **results**.
